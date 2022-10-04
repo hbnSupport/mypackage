@@ -1,0 +1,4 @@
+Invoking command in '/home/skp/ros/dev_ws/build/mypackage': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --build /home/skp/ros/dev_ws/build/mypackage -- -j8 -l8
+Invoked command in '/home/skp/ros/dev_ws/build/mypackage' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --build /home/skp/ros/dev_ws/build/mypackage -- -j8 -l8
+Invoking command in '/home/skp/ros/dev_ws/build/mypackage': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --install /home/skp/ros/dev_ws/build/mypackage
+Invoked command in '/home/skp/ros/dev_ws/build/mypackage' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --install /home/skp/ros/dev_ws/build/mypackage

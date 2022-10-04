@@ -1,0 +1,1 @@
+/home/skp/ros/dev_ws/build/mypackage/ament_cmake_core/mypackageConfig.cmake

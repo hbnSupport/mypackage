@@ -1,0 +1,1 @@
+/home/skp/ros/dev_ws/src/mypackage/launch/talker.launch.py

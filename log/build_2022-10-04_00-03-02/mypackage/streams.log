@@ -1,0 +1,52 @@
+[0.092s] Invoking command in '/home/skp/ros/dev_ws/build/mypackage': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/skp/ros/dev_ws/src/mypackage -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/skp/ros/dev_ws/install/mypackage
+[2.246s] -- The C compiler identification is GNU 10.3.0
+[4.821s] -- The CXX compiler identification is GNU 10.3.0
+[7.061s] -- Check for working C compiler: /usr/bin/cc
+[8.396s] -- Check for working C compiler: /usr/bin/cc -- works
+[8.469s] -- Detecting C compiler ABI info
+[9.694s] -- Detecting C compiler ABI info - done
+[9.762s] -- Detecting C compile features
+[9.765s] -- Detecting C compile features - done
+[9.789s] -- Check for working CXX compiler: /usr/bin/c++
+[11.081s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[11.086s] -- Detecting CXX compiler ABI info
+[12.380s] -- Detecting CXX compiler ABI info - done
+[12.446s] -- Detecting CXX compile features
+[12.449s] -- Detecting CXX compile features - done
+[12.497s] -- Found ament_cmake: 0.9.9 (/opt/ros/foxy/share/ament_cmake/cmake)
+[12.623s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[12.624s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[13.460s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[13.649s] -- Found ament_lint_auto: 0.9.6 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+[14.069s] -- Added test 'copyright' to check source files copyright and LICENSE
+[14.083s] -- Added test 'flake8' to check Python code syntax and style conventions
+[14.090s] -- Added test 'lint_cmake' to check CMake code style
+[14.095s] -- Added test 'pep257' to check Python code against some of the style conventions in PEP 257
+[14.104s] -- Added test 'xmllint' to check XML markup files
+[14.123s] -- Configuring done
+[14.140s] -- Generating done
+[14.147s] -- Build files have been written to: /home/skp/ros/dev_ws/build/mypackage
+[14.170s] Invoked command in '/home/skp/ros/dev_ws/build/mypackage' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/skp/ros/dev_ws/src/mypackage -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/skp/ros/dev_ws/install/mypackage
+[14.184s] Invoking command in '/home/skp/ros/dev_ws/build/mypackage': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/skp/ros/dev_ws/build/mypackage -- -j8 -l8
+[14.354s] Invoked command in '/home/skp/ros/dev_ws/build/mypackage' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/skp/ros/dev_ws/build/mypackage -- -j8 -l8
+[14.484s] Invoking command in '/home/skp/ros/dev_ws/build/mypackage': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/skp/ros/dev_ws/build/mypackage
+[14.526s] -- Install configuration: ""
+[14.529s] -- Execute custom install script
+[14.535s] -- Symlinking: /home/skp/ros/dev_ws/install/mypackage/share/mypackage/launch/listner.launch.py
+[14.573s] -- Symlinking: /home/skp/ros/dev_ws/install/mypackage/share/mypackage/launch/talker.launch.py
+[14.633s] -- Symlinking: /home/skp/ros/dev_ws/install/mypackage/share/ament_index/resource_index/package_run_dependencies/mypackage
+[14.650s] -- Symlinking: /home/skp/ros/dev_ws/install/mypackage/share/ament_index/resource_index/parent_prefix_path/mypackage
+[14.697s] -- Symlinking: /home/skp/ros/dev_ws/install/mypackage/share/mypackage/environment/ament_prefix_path.sh
+[14.730s] -- Symlinking: /home/skp/ros/dev_ws/install/mypackage/share/mypackage/environment/ament_prefix_path.dsv
+[14.762s] -- Symlinking: /home/skp/ros/dev_ws/install/mypackage/share/mypackage/environment/path.sh
+[14.796s] -- Symlinking: /home/skp/ros/dev_ws/install/mypackage/share/mypackage/environment/path.dsv
+[14.830s] -- Symlinking: /home/skp/ros/dev_ws/install/mypackage/share/mypackage/local_setup.bash
+[14.865s] -- Symlinking: /home/skp/ros/dev_ws/install/mypackage/share/mypackage/local_setup.sh
+[14.903s] -- Symlinking: /home/skp/ros/dev_ws/install/mypackage/share/mypackage/local_setup.zsh
+[14.942s] -- Symlinking: /home/skp/ros/dev_ws/install/mypackage/share/mypackage/local_setup.dsv
+[14.978s] -- Symlinking: /home/skp/ros/dev_ws/install/mypackage/share/mypackage/package.dsv
+[15.012s] -- Symlinking: /home/skp/ros/dev_ws/install/mypackage/share/ament_index/resource_index/packages/mypackage
+[15.050s] -- Symlinking: /home/skp/ros/dev_ws/install/mypackage/share/mypackage/cmake/mypackageConfig.cmake
+[15.084s] -- Symlinking: /home/skp/ros/dev_ws/install/mypackage/share/mypackage/cmake/mypackageConfig-version.cmake
+[15.122s] -- Symlinking: /home/skp/ros/dev_ws/install/mypackage/share/mypackage/package.xml
+[15.169s] Invoked command in '/home/skp/ros/dev_ws/build/mypackage' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/skp/ros/dev_ws/build/mypackage

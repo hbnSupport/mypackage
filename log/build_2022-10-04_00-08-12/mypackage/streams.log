@@ -1,0 +1,35 @@
+[0.092s] Invoking command in '/home/skp/ros/dev_ws/build/mypackage': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --build /home/skp/ros/dev_ws/build/mypackage -- -j8 -l8
+[0.191s] -- Found ament_cmake: 0.9.9 (/opt/ros/foxy/share/ament_cmake/cmake)
+[0.288s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[1.046s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.077s] -- Found ament_lint_auto: 0.9.6 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+[1.325s] -- Added test 'copyright' to check source files copyright and LICENSE
+[1.333s] -- Added test 'flake8' to check Python code syntax and style conventions
+[1.336s] -- Added test 'lint_cmake' to check CMake code style
+[1.338s] -- Added test 'pep257' to check Python code against some of the style conventions in PEP 257
+[1.344s] -- Added test 'xmllint' to check XML markup files
+[1.351s] -- Configuring done
+[1.364s] -- Generating done
+[1.370s] -- Build files have been written to: /home/skp/ros/dev_ws/build/mypackage
+[1.438s] Invoked command in '/home/skp/ros/dev_ws/build/mypackage' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --build /home/skp/ros/dev_ws/build/mypackage -- -j8 -l8
+[1.556s] Invoking command in '/home/skp/ros/dev_ws/build/mypackage': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --install /home/skp/ros/dev_ws/build/mypackage
+[1.581s] -- Install configuration: ""
+[1.583s] -- Execute custom install script
+[1.585s] -- Up-to-date symlink: /home/skp/ros/dev_ws/install/mypackage/share/mypackage/launch/listner.launch.py
+[1.586s] -- Up-to-date symlink: /home/skp/ros/dev_ws/install/mypackage/share/mypackage/launch/talker.launch.py
+[1.587s] -- Up-to-date symlink: /home/skp/ros/dev_ws/install/mypackage/share/ament_index/resource_index/package_run_dependencies/mypackage
+[1.589s] -- Up-to-date symlink: /home/skp/ros/dev_ws/install/mypackage/share/ament_index/resource_index/parent_prefix_path/mypackage
+[1.590s] -- Up-to-date symlink: /home/skp/ros/dev_ws/install/mypackage/share/mypackage/environment/ament_prefix_path.sh
+[1.591s] -- Up-to-date symlink: /home/skp/ros/dev_ws/install/mypackage/share/mypackage/environment/ament_prefix_path.dsv
+[1.593s] -- Up-to-date symlink: /home/skp/ros/dev_ws/install/mypackage/share/mypackage/environment/path.sh
+[1.594s] -- Up-to-date symlink: /home/skp/ros/dev_ws/install/mypackage/share/mypackage/environment/path.dsv
+[1.595s] -- Up-to-date symlink: /home/skp/ros/dev_ws/install/mypackage/share/mypackage/local_setup.bash
+[1.596s] -- Up-to-date symlink: /home/skp/ros/dev_ws/install/mypackage/share/mypackage/local_setup.sh
+[1.598s] -- Up-to-date symlink: /home/skp/ros/dev_ws/install/mypackage/share/mypackage/local_setup.zsh
+[1.599s] -- Up-to-date symlink: /home/skp/ros/dev_ws/install/mypackage/share/mypackage/local_setup.dsv
+[1.600s] -- Symlinking: /home/skp/ros/dev_ws/install/mypackage/share/mypackage/package.dsv
+[1.646s] -- Up-to-date symlink: /home/skp/ros/dev_ws/install/mypackage/share/ament_index/resource_index/packages/mypackage
+[1.648s] -- Up-to-date symlink: /home/skp/ros/dev_ws/install/mypackage/share/mypackage/cmake/mypackageConfig.cmake
+[1.649s] -- Up-to-date symlink: /home/skp/ros/dev_ws/install/mypackage/share/mypackage/cmake/mypackageConfig-version.cmake
+[1.651s] -- Up-to-date symlink: /home/skp/ros/dev_ws/install/mypackage/share/mypackage/package.xml
+[1.661s] Invoked command in '/home/skp/ros/dev_ws/build/mypackage' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --install /home/skp/ros/dev_ws/build/mypackage
