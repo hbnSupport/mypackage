@@ -1,1 +1,0 @@
-/home/skp/ros/dev_ws/build/mypackage/ament_cmake_environment_hooks/local_setup.zsh

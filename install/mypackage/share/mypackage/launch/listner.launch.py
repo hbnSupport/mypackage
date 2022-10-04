@@ -1,1 +1,0 @@
-/home/skp/ros/dev_ws/src/mypackage/launch/listner.launch.py
